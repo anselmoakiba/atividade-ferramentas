@@ -7,11 +7,7 @@ var htmlFile = './source/index.html';
 var htmlDest = './dist/';
 var cssDest = './dist/css/';
 
-var scssFile = './source/scss/estlo.scss';
-
-var sassDevOptions = {
-	outputStyle: 'expanded'
-};
+var scssFile = './source/scss/base.scss';
 
 var sassProdOptions = {
 	outputStyle: 'compressed'
